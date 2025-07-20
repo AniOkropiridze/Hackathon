@@ -25,9 +25,9 @@ class SearchResult:
 class GeorgianRAGSystem:
     def __init__(self):
         # Configuration
-        self.api_key = "AIzaSyBh9DqBdu_Jd9Zytmo1aFZm-JPdOrklUhc"
-        self.server = "DESKTOP-P6U4MFI\\MSSQLSERVER02"
-        self.database = "Full_data"
+        self.api_key = "Api_key"
+        self.server = "server_name"
+        self.database = "database_name"
         self.embedding_dim = 768
         
         # Initialize components
