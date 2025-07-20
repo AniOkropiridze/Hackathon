@@ -38,9 +38,11 @@
 pip install pyodbc pandas scikit-learn rank-bm25 faiss-cpu numpy google-generativeai
 ```
 
+## კოდის გაშვება
 კოდის დასარანად გამოიძახეთ:
+```bash
 streamlit run app.py
-
+```
 მაგრამ ამას ვერ შეძლებთ, რადგან მონაცემთა ბაზა ლოკალურად გვაქვს.
 
 
