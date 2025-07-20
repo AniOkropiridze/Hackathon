@@ -64,8 +64,8 @@ class ConversationMemory:
 class GeorgianRAGSystem:
     def __init__(self):
         # Configuration
-        self.api_key = "AIzaSyBh9DqBdu_Jd9Zytmo1aFZm-JPdOrklUhc"
-        self.server = "DESKTOP-P6U4MFI\\MSSQLSERVER02"
+        self.api_key = "Api_key"
+        self.server = "Server_name"
         self.database = "Full_data"
         self.embedding_dim = 768
         
